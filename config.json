@@ -1,0 +1,11 @@
+{
+  "brand": {
+    "name": "Henrique VTR",
+    "color": "#111111",
+    "footer": "Henrique VTR • Skins para MTA"
+  },
+  "panels": {
+    "ticketTitle": "Central de Atendimento",
+    "ticketDescription": "Abra um ticket para orçamento, compra, suporte ou encomenda personalizada."
+  }
+}
